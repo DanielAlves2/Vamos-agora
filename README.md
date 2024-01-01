@@ -1,7 +1,7 @@
 # Vamos agora!
-  primero repositorio versionado
+* primero repositorio versionado
 
-Foi difícil, mas consegui.
+* Foi difícil, mas consegui.
 
-Adicionei diretamente do site.
+* Adicionei diretamente do site.
 
